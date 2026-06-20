@@ -21,3 +21,12 @@ A console-based Library Management System developed in Java to automate library 
 * File Handling
 * Exception Handling
 * Git & GitHub
+* ---
+## Author
+
+**Bhumi Saini**
+
+Computer Science Engineering Student | Java Developer | Passionate about Software Development and Problem Solving
+
+GitHub: @bhumisaini07
+
